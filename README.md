@@ -1,6 +1,4 @@
-# ElevateLabs Cybersecurity Internship 2025 - Day 01
-
-## Task: Network Reconnaissance using Nmap
+## 🌐Task 1: Network Reconnaissance using Nmap
 
 ### 🔧 Tool Used
 **Nmap** (Network Mapper)  
